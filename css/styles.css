@@ -1,0 +1,22 @@
+
+body{
+    text-align: center;
+}
+.navText{
+    display: flexbox;
+    justify-content: center;
+}
+#LC{ 
+    height: 150px;
+    background-color: lightseagreen;
+}
+#RC{ 
+    height: 150px;
+    background-color: rgb(125, 168, 224);
+}
+
+.footer{
+    height: 100px;
+    background-color: rgb(116, 116, 231);
+}
+
