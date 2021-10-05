@@ -6,6 +6,10 @@ body{
     display: flexbox;
     justify-content: center;
 }
+
+.jumbotron{
+    margin-bottom: 0px;
+}
 #LC{ 
     height: 150px;
     background-color: lightseagreen;
